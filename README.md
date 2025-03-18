@@ -1,5 +1,6 @@
 # Statistify - Spotify API wrapped into a Discord Bot
 
+## Introduction
 WIP Spotify Statistics Discord Bot utilizing Spotify Web API and Optional Web Scraping
 
 This is a (mostly) complete discord bot that connects with Spotify's Web API to retrieve data about artists, playlist, songs, and many more. Web API Access is built in and requires no premade libraries, however, users will need to create both a Discord Web Application and Spotify Web Application in their respective developer portals for the bot to function. See sections "Preparation" for more info and see section "Library Requirements" to install the required python libraries.
